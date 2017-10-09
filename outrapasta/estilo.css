@@ -1,0 +1,24 @@
+.corPar{
+	background-color: white;
+}
+
+.corImpar{
+	background-color: #ababab;
+}
+
+table tr td a{
+	text-decoration: none;
+	color: black;
+}
+table tr td a:hover{
+	color: blue;
+	text-decoration: underline;
+}
+
+img{
+	width: 30%;
+}
+
+.foto-perfil{
+	width: 20%;
+}
